@@ -19,7 +19,7 @@
 
   - 💬 Eu tenho 31 anos, moro atualmente em Salvador-Ba. Tenho experiência com Python, SQL, R, Análise de Dados, Visualização de Dados e Estastística.
 
-  - ⚡ Gosto de ler, seja um bom livro, jornais ou um relatório de resultado de um empresa, além de assistir filmes e jogar! \o/
+  - ⚡ Gosto de ler, seja um bom livro, jornais ou um relatório de resultados de uma empresa, além de assistir filmes e jogar! \o/
 </details>
 
 <!-- Links -->

@@ -31,7 +31,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- 
+- [Python - Exploração Dados Airbnb](https://github.com/gomes-ti23/AnaliseDados_Airbnb_LosAngeles_2023) 
 
 <!-- GIF -->
 <p align="left">

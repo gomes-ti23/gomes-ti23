@@ -27,7 +27,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-gomes-759a42226/)
 
 <!-- GithubStats -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomes-ti23&show_icons=true&theme=gotham)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomes-ti23&show_icons=true&theme=gotham)](https://github.com/gomes-ti23/github-readme-stats)
 
 <!-- Portfolio -->
 ## Portfolio:

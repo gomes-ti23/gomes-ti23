@@ -15,7 +15,7 @@
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary>👨‍💻 Mais sobre mim</summary>
 
   - 💬 Eu tenho 31 anos, moro atualmente em Salvador-Ba. Tenho experiência com Python, SQL, R, Análise de Dados, Visualização de Dados e Estastística.
 

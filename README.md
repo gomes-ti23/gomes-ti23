@@ -31,7 +31,9 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Python - Exploração Dados Airbnb](https://github.com/gomes-ti23/AnaliseDados_Airbnb_LosAngeles_2023) 
+- [Python - Exploração Dados Airbnb](https://github.com/gomes-ti23/AnaliseDados_Airbnb_LosAngeles_2023)
+- [Python - Manipulação com PDF](https://github.com/gomes-ti23/Projeto_Python/blob/main/Manipulação_e_Automação_de_PDF.ipynb)
+ 
 
 <!-- GIF -->
 <p align="left">

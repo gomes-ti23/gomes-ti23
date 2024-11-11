@@ -8,7 +8,7 @@
 <p>
   Oi👋, eu sou o Tiago! Um apaixonado por Ciência de Dados da Bahia.
 
-  - 🌱 Atualmente, graduado em Ciências Econômica na UNIFACS e realiando Pós-Graduação  em Ciência de Dados.
+  - 🌱 Atualmente, graduado em Ciências Econômica na UNIFACS e realizando Pós-Graduação em Ciência de Dados.
 
   - 🔭 Estou em busca da minha primeira oportunidade de emprego na área de dados, para assim realizar minha tão sonhada transição de carreira.
 </p>

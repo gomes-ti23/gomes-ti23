@@ -6,9 +6,9 @@
 
 <!-- Presentation -->
 <p>
-  Oi👋, eu sou o Tiago! Um apaixonado estudante de Ciência de Dados da Bahia.
+  Oi👋, eu sou o Tiago! Um apaixonado por Ciência de Dados da Bahia.
 
-  - 🌱 Atualmente estou estudando Ciências Econômica na UNIFACS e Ciência de Dados na Infinity School.
+  - 🌱 Atualmente, graduado em Ciências Econômica na UNIFACS e realiando Pós-Graduação  em Ciência de Dados.
 
   - 🔭 Estou em busca da minha primeira oportunidade de emprego na área de dados, para assim realizar minha tão sonhada transição de carreira.
 </p>
@@ -17,7 +17,7 @@
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 Eu tenho 31 anos, moro atualmente em Salvador-Ba. Tenho experiência com Python, SQL, R, Análise de Dados, Visualização de Dados e Estastística.
+  - 💬 Eu tenho 31 anos, moro atualmente em Salvador-Ba. Tenho experiência nas ferramentas: Python, SQL, R, Power BI, VS Code e outros.
 
   - ⚡ Gosto de ler, seja um bom livro, jornais ou um relatório de resultados de uma empresa, além de assistir filmes e jogar! \o/
 </details>

@@ -32,7 +32,7 @@
 <!-- Portfolio -->
 ## Portfolio:
 - [Python - Exploração Dados Airbnb](https://github.com/gomes-ti23/Projeto_Python/blob/main/Análise_Dados_Airbnb_Los_Angeles_2023.ipynb)
-- [Python - Manipulação com PDF](https://github.com/gomes-ti23/Projeto_Python/blob/main/Manipulação_e_Automação_de_PDF.ipynb)
+- [SQL Server - Criação e Manutenção BD Comercio_Online](https://github.com/gomes-ti23/SQL_Comercio_Online)
  
 
 <!-- GIF -->

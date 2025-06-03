@@ -23,13 +23,13 @@
 
 ### Linguagens de Programação
 <div align="left">
-  <img src="	https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="40" alt="Python logo" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="20" alt="Python logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" height="40" alt="R logo" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" height="20" alt="R logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" height="40" alt="Django" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" height="20" alt="Django" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white" height="40" alt="HTML" />
+  <img src="https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white" height="20" alt="HTML" />
 </div>
 
 ### Bancos de Dados (SQL & NoSQL)

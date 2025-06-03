@@ -98,45 +98,6 @@ Para um perfil de dados, é crucial mostrar o seu arsenal tecnológico. Organize
 - Otimização de Bancos de Dados
 - Metodologias Ágeis (mencionado no currículo)
 
-## 💼 Experiência Profissional
-
-Esta seção é crucial para mostrar sua trajetória e impacto. Detalhei cada cargo, incluindo responsabilidades e, o mais importante, suas conquistas, que demonstram resultados concretos:
-
-### Assistente de Dados | Petrobahia S.A.
-_Março de 2025 - Atualmente (3 meses)_
-Salvador, Bahia, Brasil
-- Atuação direta com manipulação, armazenamento e controle de grandes volumes de dados, garantindo a integridade e disponibilidade das informações.
-- Utilização de bancos de dados relacionais e não relacionais, além de ferramentas de análise e infraestrutura em nuvem para otimização de processos.
-
-### Analista de E-commerce Júnior | Latitude 13 - Cafés Especiais
-_Maio de 2024 - Março de 2025 (11 meses)_
-Salvador, Bahia, Brasil
-- Gestão e atualização contínua de plataformas de e-commerce, assegurando que produtos, descrições, imagens e preços estivessem sempre alinhados com as últimas promoções e ofertas.
-- Realização de análises de desempenho utilizando Excel e Power BI, monitorando métricas de vendas, tráfego e conversões para apoiar decisões estratégicas.
-- Implementação de estratégias de SEM (Search Engine Marketing) em colaboração com o setor de Marketing para aumentar a visibilidade e atrair novos clientes.
-- Planejamento e execução de campanhas de marketing digital, visando otimizar resultados e engajamento do público.
-- Colaboração com a equipe de atendimento ao cliente para garantir uma excelente experiência de compra.
-- **Conquistas Notáveis:**
-  - Liderança na implementação do projeto de e-commerce nos principais marketplaces, resultando em um aumento significativo nas vendas nesses canais.
-  - Desenvolvimento de um portfólio de produtos otimizado para cada marketplace, utilizando ferramentas como Python, Excel e Power BI para análise de desempenho.
-  - Definição precisa de público-alvo através de análises aprofundadas de campanhas, utilizando bibliotecas Python como Pandas e Numpy, com resultados apresentados via Power BI.
-
-### Encarregado | Hiperideal Supermercados
-_Abril de 2018 - Maio de 2024 (6 anos e 2 meses)_
-Salvador, Bahia, Brasil
-- Utilização de análises estatísticas para gerir e coordenar equipes, focando no aumento das vendas diárias e na eficiência operacional.
-- Desenvolvimento de estratégias de vendas baseadas em dados, utilizando Excel, Power BI e o sistema RMS para controle de custos operacionais e desempenho de vendas.
-- Fornecimento de atendimento ao cliente de alta qualidade, incluindo suporte exclusivo ao e-commerce, com análises de dados para aprimorar a experiência do consumidor.
-- **Conquistas Notáveis:**
-  - Participação ativa na implementação do projeto de E-commerce durante o período da pandemia, criando modelos de atendimento que diminuíram erros e aumentaram as vendas no novo canal.
-  - Redução significativa nos percentuais de custos e perdas no setor sob minha responsabilidade, impulsionada por insights gerados a partir de planilhas dinâmicas do Excel e dashboards no Power BI.
-
-### Agente de Prevenção e Perdas | Hiperideal Supermercados
-_Dezembro de 2014 - Abril de 2018 (3 anos e 5 meses)_
-Salvador, Bahia, Brasil
-- Desempenho de um papel fundamental na análise diária dos procedimentos operacionais da loja, utilizando o Excel para identificar e mitigar prejuízos conhecidos e desconhecidos em setores estratégicos (açougue, hortifrúti e padaria).
-- Condução de inventários quinzenais para ajustar os níveis de estoque e avaliar o percentual de desperdício, aplicando análises estatísticas para otimizar o desempenho operacional.
-
 ## �� Formação Acadêmica e Certificações
 
 Uma seção clara para suas qualificações formais e especializações:
@@ -146,8 +107,6 @@ Uma seção clara para suas qualificações formais e especializações:
   _Fevereiro de 2025 - Março de 2026_
 - **Bacharelado em Ciência Econômica** | Universidade Salvador (UNIFACS)
   _Junho de 2021 - Dezembro de 2024_
-- **Técnico em Data Science - Cientista de Dados** | INFINITY SCHOOL - Visual Art Creative Center
-  _Fevereiro de 2023 - Fevereiro de 2024_
 
 ### Certificações
 - Analista de Banco de Dados

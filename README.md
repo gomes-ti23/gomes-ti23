@@ -60,13 +60,13 @@
 
 ### Business Intelligence & Visualização
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-plain.svg" height="40" alt="Power BI logo" />
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30" alt="Power BI logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Qlik-009845?style=for-the-badge&logo=qlik&logoColor=white" height="40" alt="Qlik logo" />
+  <img src="https://img.shields.io/badge/Qlik-009845?style=for-the-badge&logo=qlik&logoColor=white" height="30" alt="Qlik logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Metabase-5022C3?style=for-the-badge&logo=metabase&logoColor=white" height="40" alt="Metabase logo" />
+  <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" height="30" alt="Streamlit logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-plain.svg" height="40" alt="Excel logo" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="30" alt="Excel logo" />
 </div>
 
 ### Bibliotecas e Ferramentas Essenciais

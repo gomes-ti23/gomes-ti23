@@ -3,8 +3,7 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Olá, eu sou o Tiago! 👋</h1></summary>
 </div>
-
-<!-- Sobre Mim -->
+    
 <!-- Sobre Mim -->
 <p>
   Profissional com <strong>experiência em Análise e Engenharia de Dados</strong>. Curioso por natureza, gosto de resolver problemas e transformar dados em decisões. Sempre pronto para aprender algo novo e encarar desafios criativos!<br>
@@ -14,15 +13,13 @@
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
   <p>
-    - �� Tenho 31 anos e sou de Salvador-Ba. Sou um entusiasta por tecnologia e adoro desvendar padrões e histórias escondidas nos dados.
+    - ⚡ Tenho 31 anos e sou de Salvador-Ba. Sou um entusiasta por tecnologia e adoro desvendar padrões e histórias escondidas nos dados.
     - ⚡ Nos meus momentos de lazer, gosto de mergulhar em uma boa leitura (seja um livro, jornais ou relatórios de resultados de empresas), assistir filmes e, claro, jogar! \o/
   </p>
 </details>
 
 <!-- Habilidades e Ferramentas -->
 ## 🔥 Habilidades e Ferramentas
-
-Para um perfil de dados, é crucial mostrar o seu arsenal tecnológico. Organizei suas habilidades em categorias claras, utilizando ícones para um impacto visual imediato:
 
 ### Linguagens de Programação
 <div align="left">
@@ -96,29 +93,22 @@ Para um perfil de dados, é crucial mostrar o seu arsenal tecnológico. Organize
 <!-- Links -->
 ## 🔗 Conecte-se Comigo
 
-Mantenha seus links sociais em destaque para facilitar o contato:
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gomes_ti23/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-gomes-759a42226/)
 
 <!-- GithubStats -->
 ## 📊 Estatísticas do GitHub
 
-Seu desempenho no GitHub é um ótimo indicador de sua atividade e paixão por código:
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomes-ti23&show_icons=true&theme=gotham)](https://github.com/gomes-ti23/github-readme-stats)
 
 <!-- Portfolio -->
 ## 🚀 Portfólio de Projetos
-
-Seus projetos são a melhor forma de demonstrar suas habilidades na prática. Mantive os que você já tinha e adicionei uma pequena introdução:
 
 Aqui estão alguns dos meus projetos que demonstram minhas habilidades e paixão por dados:
 
 - [Python - Exploração Dados Airbnb](https://github.com/gomes-ti23/Projeto_Python/blob/main/Análise_Dados_Airbnb_Los_Angeles_2023.ipynb)
 - [SQL Server - Criação e Manutenção BD Comercio_Online](https://github.com/gomes-ti23/SQL_Comercio_Online)
 
-_Estou sempre trabalhando em novos projetos e expandindo meu portfólio para incluir mais exemplos práticos das minhas habilidades em Engenharia e Análise de Dados!_
 
 <!-- GIF -->
 <p align="left">

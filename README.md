@@ -5,14 +5,9 @@
 </div>
 
 <!-- Sobre Mim -->
+<!-- Sobre Mim -->
 <p>
-  Sou um profissional com <strong>9 anos de experiência</strong> nas áreas Comercial, E-commerce, Análise e Engenharia de Dados, com uma paixão genuína por transformar dados brutos em insights acionáveis e soluções estratégicas. Minha trajetória é marcada pela capacidade de navegar entre a análise de dados, a gestão eficiente de estoque, o desenvolvimento de estratégias de vendas baseadas em evidências e a otimização contínua de processos.
-</p>
-<p>
-  Atualmente, estou imerso no universo da Engenharia e Análise de Dados como <strong>Assistente de Dados na Petrobahia S.A.</strong>, onde lido diariamente com a manipulação, armazenamento e controle de grandes volumes de dados, utilizando tanto bancos de dados relacionais quanto não relacionais, além de explorar ferramentas de análise e infraestrutura em nuvem.
-</p>
-<p>
-  Minha jornada acadêmica inclui a reta final da graduação em <strong>Ciências Econômicas pela Universidade Salvador (UNIFACS)</strong> e uma empolgante <strong>Pós-Graduação em Engenharia e Arquitetura de Dados pela XP Educação</strong>. Estou sempre em busca de novas oportunidades que me permitam aplicar e expandir meus conhecimentos, contribuindo para projetos desafiadores e inovadores no campo dos dados.
+  Profissional com <strong>experiência em Análise e Engenharia de Dados</strong>. Curioso por natureza, gosto de resolver problemas e transformar dados em decisões. Sempre pronto para aprender algo novo e encarar desafios criativos!<br>
 </p>
 
 <!-- Dropdown para mais detalhes -->
@@ -97,21 +92,6 @@ Para um perfil de dados, é crucial mostrar o seu arsenal tecnológico. Organize
 - Modelagem de Dados (Relacional e Não Relacional)
 - Otimização de Bancos de Dados
 - Metodologias Ágeis (mencionado no currículo)
-
-## �� Formação Acadêmica e Certificações
-
-Uma seção clara para suas qualificações formais e especializações:
-
-### Formação Acadêmica
-- **Pós-graduação Lato Sensu em Engenharia e Arquitetura de Dados** | XP Educação
-  _Fevereiro de 2025 - Março de 2026_
-- **Bacharelado em Ciência Econômica** | Universidade Salvador (UNIFACS)
-  _Junho de 2021 - Dezembro de 2024_
-
-### Certificações
-- Analista de Banco de Dados
-- Python para ciência de dados, IA e desenvolvimento
-- Microsoft Power BI Para Business Intelligence e Data Science
 
 <!-- Links -->
 ## 🔗 Conecte-se Comigo

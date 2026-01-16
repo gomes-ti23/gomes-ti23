@@ -90,7 +90,7 @@
 - ETL/ELT (Extração, Transformação e Carga/Load)
 - Modelagem de Dados (Relacional e Não Relacional)
 - Otimização de Bancos de Dados
-- Metodologias Ágeis (mencionado no currículo)
+- Metodologias Ágeis
 
 <!-- Links -->
 ## 🔗 Conecte-se Comigo

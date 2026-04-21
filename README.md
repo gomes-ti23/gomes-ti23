@@ -13,7 +13,7 @@
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
   <p>
-    <br> - ⚡ Tenho 31 anos e sou de Salvador-Ba. Sou um entusiasta por tecnologia e adoro desvendar padrões e histórias escondidas nos dados. </br>
+    <br> - ⚡ Sou de Salvador-Ba. Sou um entusiasta por tecnologia e adoro desvendar padrões e histórias escondidas nos dados. </br>
     - ⚡ Nos meus momentos de lazer, gosto de mergulhar em uma boa leitura (seja um livro, jornais ou relatórios de resultados de empresas), assistir filmes e, claro, jogar! \o/
   </p>
 </details>
